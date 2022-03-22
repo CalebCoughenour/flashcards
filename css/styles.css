@@ -15,3 +15,15 @@ p {
 .javascript-hidden {
   display: none;
 }
+
+.functions-hidden {
+  display: none;
+}
+
+.bool-hidden {
+  display: none;
+}
+
+.query-hidden {
+  display: none;
+}
