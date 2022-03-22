@@ -7,3 +7,11 @@ h1:hover {
   text-decoration: underline;
   color: #0088cc;
 }
+
+p {
+  text-align: center;
+}
+
+.javascript-hidden {
+  display: none;
+}
